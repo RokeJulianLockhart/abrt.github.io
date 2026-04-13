@@ -41,7 +41,7 @@ the actual handler
 
 It’s not even close to being elegant, and people are already arguing about removing
 support (or, rather, coming up with a better alternative) for such things:
-<https://bugs.python.org/issue33944>. To support such an implementation, we would
+<https://github.com/python/cpython/issues/78125#issue-1198993802>. To support such an implementation, we would
 likely need to provide a runtime extension, or ask anyone shipping Python to include
 our handler.
 
